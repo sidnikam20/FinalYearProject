@@ -82,5 +82,5 @@ Manual data cleaning is time-consuming and error-prone. Existing tools lack inte
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Yogeshdige2003/DataDoctor.git
-cd DataDoctor
+git clone https://github.com/sidnikam20/FinalYearProject
+cd FinalYearProject
