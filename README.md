@@ -74,19 +74,7 @@ Manual data cleaning is time-consuming and error-prone. Existing tools lack inte
 
 :contentReference[oaicite:4]{index=4}
 
----
 
----
-
-## 👥 Project Implementation & Contributions
-
-This project was developed collaboratively by a team of three members, with clearly defined roles and responsibilities.
-
-| Member        | Role                                      | Key Contributions |
-|--------------|-------------------------------------------|-------------------|
-| **Yogesh Dige**   | Lead Developer & System Architect | - Designed overall system architecture and data cleaning workflow<br>- Implemented core Streamlit application (`app.py`) and multi-step UI flow<br>- Integrated RAG-based Cleaning Chatbot using Gemini API + LlamaIndex<br>- Implemented data cleaning modules (missing values, duplicates, outliers, data type optimization)<br>- Developed EDA & visualization components, feature engineering, NLP text processing and export modules (CSV/Excel/report)<br>- Set up SQLite database for session storage and chat history, and handled end-to-end debugging and optimization |
-| **Siddhi Nikam**  | Data Analyst & UI/UX Contributor | - Assisted in designing user flow and layout for Streamlit pages<br>- Contributed to configuration of visualization plots and summary views<br>- Helped in preparing and testing multiple sample datasets for validation of cleaning and EDA pipeline<br>- Supported literature survey mapping (Pandas Profiling, Sweetviz, RAG-based approaches) to implemented features<br>- Contributed to writing and formatting the final project report and review presentations |
-| **Vaibhav Fuke**  | Testing, Evaluation & Documentation | - Performed module-wise testing of data cleaning, EDA, and export functionalities<br>- Helped verify correctness of feature engineering and text processing outputs<br>- Assisted in preparing result screenshots, workflow diagrams, and output sections for the PPT/report<br>- Contributed to writing and formatting the project synopsis and research paper <br>- Supported debugging by reporting edge cases and UI issues during trials |
 
 ---
 
